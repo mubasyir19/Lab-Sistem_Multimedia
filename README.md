@@ -1,5 +1,5 @@
-<h1 align="center">My Link Template</h1>
-<h3 align="center">Custom Link Management</h3>
+<h1 align="center">Lab Sistem Multimedia</h1>
+<h3 align="center">Komponen Multimedia - Audio</h3>
 
 <h4>Tech Stack :</h4>
 - <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">HTML5</a> <br/>
