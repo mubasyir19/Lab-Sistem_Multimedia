@@ -7,7 +7,7 @@ module.exports = {
         sans: ['Poppins'],
       },
       backgroundImage: {
-        background: "url('/public/background.jpg')",
+        background: "url('/background.jpg')",
       },
     },
   },
